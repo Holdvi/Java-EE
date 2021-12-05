@@ -1,0 +1,5 @@
+package br.com.javaee.gerenciador.acao;
+
+public class RemoveEmpresa {
+
+}
