@@ -8,6 +8,7 @@ When validated, the user has access to a list of companies in which he can edit,
 
 Apache Tomcat 9.0.55 was used;
 
+The Java project is in the folder "gerenciador".
 
 Active users:
 
